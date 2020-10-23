@@ -9,8 +9,11 @@ Processing. To play the game, you must click the Run button.
 ## How to play ##
 The game board consists of an 10x6 gridboard, and is to be played with 2 players. Each player takes turns placing an "atom"
 in a grid of their choice. A grid square can hold a varying number of atoms depending on their location:
+
 Corner squares: 1 atom
+
 Edge squares: 2 atoms
+
 Centre squares: 3 atoms
 
 A player cannot place an atom in a square occupied by another player's atom, but they can place multiple atoms in a square
