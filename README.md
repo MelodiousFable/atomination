@@ -2,7 +2,7 @@
 A very simple tic-tac-toe like game called Atomination.
 
 ## Running the game ##
-Unfrtunately, exporting this application to a .exe standalone file does not work, as the application will not run. Therefore, 
+Unfortunately, exporting this application to a .exe standalone file does not work, as the application will not run. Therefore, 
 in order to run this application, you must have the lastest version of Processing installed, and open AtominationGUI.pde with
 Processing. To play the game, you must click the Run button.
 
